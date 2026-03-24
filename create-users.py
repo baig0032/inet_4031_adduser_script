@@ -1,9 +1,7 @@
 #!/usr/bin/python3
 
 # INET4031
-# Your Name
-# Date Created
-# Date Last Modified
+# Mirza Baig
 
 # Importing required modules:
 # os - to run system commands
